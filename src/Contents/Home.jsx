@@ -166,13 +166,12 @@ function Home(){
                 </div>
             <div className="projects-card">
 
-                <img src="/myportfolio1.png" alt="projects.png" height="200px"/>
+                <img src="/wordpress.png" alt="projects.png" height="200px"/>
 
                 <h4>My Portfolio</h4>
 
-                    <h4>Inventory Management System</h4>
 
-                    <h5> Java </h5>
+                    <h5> Wordpress</h5>
                     
                     <a><Link to="/project">More</Link></a>
 
