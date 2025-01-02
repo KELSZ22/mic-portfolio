@@ -8,7 +8,6 @@ import Projects from './Contents/Projects.jsx'
 import { BrowserRouter as Router, Route, Routes,useLocation, HashRouter } from 'react-router-dom';
 import Resume from './Contents/Resume.jsx';
 import Contacts from './Contents/Contacts.jsx';
-import Sample from './Contents/sample.jsx';
 
 
     
@@ -28,7 +27,6 @@ function App (){
 
     <Routes>
       
-      <Route path="/sample" exact element={<Sample />} />
       
       <Route path="/" exact element={<Home />} />
       <Route path="/aboutme" exact element={<About />} />
