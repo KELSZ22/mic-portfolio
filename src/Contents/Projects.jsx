@@ -4,29 +4,92 @@ function Project() {
 
   return (
     <> 
-    <h1>Project</h1>
-<h2> Working in Progress</h2>    
-<div className="proj-card">
+    <h1 className="proj-label">Projects</h1>
 
-  <div class="card">
-    <img src="/webbased.png" alt="" />
-    <div class="card__content">
-      <p class="card__title">Card Title
-      </p><p class="card__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
-  </div>
+      <div className="proj-container">
+
+        <div className="proj-card">
+
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
 
 
-    <div class="card">
-    <img src="/webbased.png" alt="" />
-    <div class="card__content">
-      <p class="card__title">Card Title
-      </p><p class="card__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
-  </div>
+                      <div className="proj-card">
 
-</div>
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
 
+                      <div className="proj-card">
+
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
+
+                      <div className="proj-card">
+
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
+
+                      <div className="proj-card">
+
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
+
+                      <div className="proj-card">
+
+            <img src="/webbased.png" alt="webbased.png" />
+         
+      
+           </div>
+           <div className="proj-content">
+              <h1>Web-based Attendance Management System using QR Code</h1>
+              <h3>Date</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              
+              </div>
+      </div>
+
+
+      
 
      </>
   );
