@@ -10,6 +10,10 @@ function Navbar() {
     setIsOpen(!isOpen);
   };
 
+  const closeMenu = () => {
+    setIsOpen(false);
+  }
+
   const toggleDarkMode = () => {
     
       document.body.classList.toggle('dark-mode');
@@ -23,6 +27,7 @@ function Navbar() {
     }
   };
 
+   
 
 
   return (
@@ -34,12 +39,12 @@ function Navbar() {
       </div>
 
       <div className={`navbar-links ${isOpen ? 'active' : ''}`}>
-      <li><Link to="/">Home</Link></li>
-      <li><Link to="/aboutme">About Me</Link></li>
-      <li ><Link to="/resume">Resume</Link></li>
-      <li ><Link to="/project">Projects</Link></li>
-      <li ><Link to="/contact">Contacts</Link></li>
-      <li><img src="/dark.png " alt="dark.png" id="dmode" onClick={toggleDarkMode }/></li>
+      <li><Link to="/" onClick={closeMenu}>Home</Link></li>
+      <li><Link to="/aboutme" onClick={closeMenu}>About Me</Link></li>
+      <li ><Link to="/resume" onClick={closeMenu}>Resume</Link></li>
+      <li ><Link to="/project" onClick={closeMenu}>Projects</Link></li>
+      <li ><Link to="/contact" onClick={closeMenu}>Contacts</Link></li>
+      <li><img src="/dark.png " alt="dark.png" id="dmode"  onClick={toggleDarkMode } /></li>
       </div>
 
 
