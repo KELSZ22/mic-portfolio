@@ -337,10 +337,55 @@ footer {
   border-radius: 100%;
 }
 
-.tae {
-  background-color: red;
+.about-page{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.about-page label{
+  font-size: 2em;
+  color: var(--font-color);
+  font-weight: bold;
+  margin: 20px;
+  text-align: center;
+
+}
+
+.about-page-content{
+  display: flex;
+  font-size: 1.5em;
+  color: var(--font-color);
+  align-items: center;
+  text-align: justify;
+  max-width: 100%;
+  margin: 20px;
+  height: auto;
+  background: rgba(128, 128, 128, 0.301);
+  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.about-page-content .img-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  border-radius: 50%;
+  flex-wrap: wrap;
+}
+
+.about-page-content .img-content img{
+border-radius: 120px;
+height: auto;
+width: 200px;
+margin: 10px ;
+cursor: pointer;
+}
+
+.about-page-content .img-content img:hover{
+  scale: 1.5;
 }
 
 

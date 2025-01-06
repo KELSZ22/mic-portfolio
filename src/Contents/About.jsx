@@ -14,6 +14,28 @@ function About(){
 
             </div>
 
+                <div className="about-page">
+                    <label>Hobbies And Commission Work</label>
+
+                    <div className="about-page-content">
+                        <p> I Accepting also commision Art work Like vector and vexel art, creating logo, photo manipulation and others. Drawing is one of my favorite hobbies and Digital Art because it utilizing both of my interest the technology and art.
+
+                            <div className="img-content">
+                                <img src="/art/1.png" alt="vector.png" width="200px" height="200px" />
+                                <img src="/art/2.png" alt="vexel.png" width="200px" height="200px" />
+                                <img src="/art/3.png" alt="logo.png" width="200px" height="200px" />
+                                <img src="/art/4.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/5.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/6.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/7.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/8.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/9.png" alt="photo.png" width="200px" height="200px" />
+                                <img src="/art/10.png" alt="photo.png" width="200px" height="200px" />
+                            </div>
+                        </p>
+                    </div>
+
+                </div>
 
        
 
