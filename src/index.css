@@ -274,7 +274,7 @@ footer {
   box-shadow: 5px 5px 10px 5px rgba(133, 133, 133, 0.425);
   border-radius: 10px;
   text-align: center;
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
   margin: 20px;
 }
 
@@ -312,7 +312,7 @@ footer {
   flex-direction: column;
   gap: 50px;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
 
 }
 
@@ -362,7 +362,7 @@ footer {
   margin: 20px;
   height: auto;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
   padding: 20px;
   border-radius: 20px;
 }
@@ -378,7 +378,7 @@ footer {
 
 .about-page-content .img-content img{
 border-radius: 120px;
-height: auto;
+height: 200px;
 width: 200px;
 margin: 10px ;
 cursor: pointer;
@@ -429,7 +429,7 @@ cursor: pointer;
   flex-direction: column;
   row-gap: 10px;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
   border: 1px solid rgba(128, 128, 128, 0.473);
 }
 
@@ -473,7 +473,7 @@ cursor: pointer;
   flex-wrap: wrap;
   width: 99vw;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
   margin-bottom: 50px;
 }
 
@@ -513,7 +513,7 @@ cursor: pointer;
   margin-right: 50px;
   padding: 10px;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
   border: 1px solid rgba(128, 128, 128, 0.473);
 }
 
@@ -531,7 +531,7 @@ cursor: pointer;
   flex-direction: column;
   margin: 90px 60px;
   background: rgba(128, 128, 128, 0.301);
-  box-shadow: 10px 10px 15px rgba(29, 0, 43, 0.699);
+  box-shadow: 10px 10px 20px rgba(58, 7, 83, 0.253);
 }
 
 .cont .tacts {
