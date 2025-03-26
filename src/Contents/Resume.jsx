@@ -71,15 +71,15 @@ function Resume() {
 
           <label htmlFor="">Experience </label>
           <br />
-          <p>Spring Board Ph., 2025</p>
+          <b>Spring Board Ph., 2025</b>
           <p>Web Developer</p>
           <br />
 
           <label htmlFor="">On the Job Training</label>
-          <p>Intellyx ICT, 2023</p>
-          <p>Negosyante I.T Solutions Corp., 2003</p>
+          <b>Intellyx ICT, 2023</b>
+          <b>Negosyante I.T Solutions Corp., 2003</b>
           <p>Web Developer</p>
-          <p>Work Immersion: First Academy of Computer Arts, 2020</p>
+          <b>Work Immersion: First Academy of Computer Arts, 2020</b>
 
           <hr />
 
