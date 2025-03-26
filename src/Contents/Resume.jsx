@@ -76,6 +76,8 @@ function Resume() {
           <br />
 
           <label htmlFor="">On the Job Training</label>
+          <br />
+
           <b>Intellyx ICT, 2023</b>
           <b>Negosyante I.T Solutions Corp., 2003</b>
           <p>Web Developer</p>
