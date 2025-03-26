@@ -66,49 +66,37 @@ function Resume() {
             demonstrating effective performance. I am dedicated to ongoing
             learning and eager to embrace new challenges.
           </p>
-
           <hr />
-
           <label htmlFor="">Experience </label>
           <br />
           <b>Spring Board Ph., 2025</b>
           <p>Web Developer</p>
           <br />
-
           <label htmlFor="">On the Job Training</label>
+          <br />g<b>Intellyx ICT, 2023</b>
           <br />
-
-          <b>Intellyx ICT, 2023</b>
           <b>Negosyante I.T Solutions Corp., 2003</b>
           <p>Web Developer</p>
           <b>Work Immersion: First Academy of Computer Arts, 2020</b>
-
           <hr />
-
           <label htmlFor="">Education</label>
-
           <p>
             <b>Bachelor of Science in Computer Engineering</b>
           </p>
           <p>Universidad De Manila</p>
-
           <p>
             <b>Information Communication Technology (ICT)</b>
           </p>
           <p>Arellano University</p>
-
           <p>
             <b>High School</b>
           </p>
           <p>Tondo High School</p>
-
           <p>
             <b>Elementary</b>
           </p>
           <p>Manuel L. Quezon Elementary School</p>
-
           <hr />
-
           <label htmlFor="">Skills</label>
           <ul>
             <li>Programming languages (Java,Python, PHP and C++)</li>
@@ -124,7 +112,6 @@ function Resume() {
             <li>Time Management</li>
             <li>Adaptability</li>
           </ul>
-
           <hr />
           <label htmlFor="">Certificates</label>
           <p>
@@ -151,7 +138,6 @@ function Resume() {
               TESDA Developing Designs for User Experience (2024)
             </a>
           </p>
-
           <p>
             <a
               href="https://drive.google.com/file/d/16CozmRDm6Uv8J9VgvhtmumSEhdxu3IcQ/view"
